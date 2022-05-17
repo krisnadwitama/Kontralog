@@ -1,0 +1,4 @@
+likes('user1', ['Movie4', 'movie1', 'Movie 3', 'movie5', 'movie6', 'movie7']).
+likes('User2', ['Movie4', 'movie 2', 'Movie 3', 'movie5']).
+likes('User3', ['Movie4', 'movie1']).
+likes('user4', ['Movie4', 'movie1', 'Movie 3', 'movie5']).
